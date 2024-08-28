@@ -15,7 +15,7 @@ This assignment will help you gain hands-on experience in working with real-worl
 - Explore the dataset to identify columns related to medical codexes (e.g., ICD codes, DRG codes, HCPCS codes).
 
 ### 3. Analyzing Medical Codex Data:
-- Identify the different types of medical codexes present in the dataset.
+- Identify the different types of medical codexes present in the dataset. You are required to identify at least 8 unique types of medical codexes (e.g., ICD-10, DRG, HCPCS, etc.) columns. It is ok if you find repeated columns for the same type of codex but that represents different information (e.g., primary diagnosis, secondary diagnosis, etc.).
 - For each type of medical codex, calculate the frequency of each unique value.
 - Determine if there are any missing or null values in the codex-related columns and handle them appropriately (e.g., filling them with a placeholder, excluding them from analysis).
 
