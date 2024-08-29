@@ -4,7 +4,7 @@ import pandas as pd
 # Replace 'your_file_path.csv' with the actual file path or URL of the dataset
 # Use a delimiter argument if the data is separated by a character other than a comma (e.g., | or ;)
 # For us we need to use | as the delimiter
-data = pd.read_csv('your_file_path.csv', delimiter='|')
+data = pd.read_csv('your_file_path.csv', sep='|')
 
 # Display the first few rows of the dataset to understand its structure
 print(data.head())
