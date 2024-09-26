@@ -2,8 +2,6 @@
 
 ## Project Title: SPARCS Descriptive 2022
 
-**Due Date:** [Insert Due Date]
-
 ---
 
 ### Objective:
