@@ -122,3 +122,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# avoid uploading sparcs_2022.csv
+sparcs_2022.csv
