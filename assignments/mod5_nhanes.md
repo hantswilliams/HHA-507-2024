@@ -27,14 +27,14 @@ To start, you’ll use the following NHANES variables for analysis:
 
 1. **Create Your GitHub Repository**
    - Create a new GitHub repository titled `nhanes_inferential_2023`.
-   - Include a `README.md` file that briefly describes the project and the analysis you are performing.
+   - Include a `README.md` file that briefly describes the project and the analyses you are performing for each of the questions.
 
 2. **Complete the Analysis in Google Colab**
    - Use Google Colab to conduct your analysis. Your notebook should be well-documented with explanations of each step just as like we have done in the class notebooks.
 
 3. **Questions for Analysis**
 
-   Use the questions below to guide your analysis. Remember to transform or recode variables where needed as specified, but determine the appropriate statistical tests on your own.
+   Use the questions below to guide your analysis. Remember to transform or recode variables where needed as specified, and determine the appropriate statistical tests that should be performed based on the question and variables.
 
    - **Question 1**: "Is there an association between marital status (married or not married) and education level (bachelor’s degree or higher vs. less than a bachelor’s degree)?"  
      - Variables: `DMDMARTZ` (marital status) and `DMDEDUC2` (education level). Recode as specified.
