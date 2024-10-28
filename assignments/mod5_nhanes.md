@@ -63,4 +63,4 @@ To start, you’ll use the following NHANES variables for analysis:
 
 Ensure your repository is public or accessible by link, and confirm that all code, results, and any explanations are documented clearly within your notebook.
 
-If you have any issues or run into errors, please be sure to screen shot the error message and include it in your notebook. This will help us understand the problem and provide guidance on how to resolve it. Do not NOT submit because of errors. 
+If you have any issues or run into errors, please be sure to screen shot the error message and include it in your notebook. This will help me understand the problem and provide guidance on how to resolve it. Do not NOT submit because of errors. 
