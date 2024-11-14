@@ -1,0 +1,2 @@
+azure-ai-vision-imageanalysis
+python-dotenv
